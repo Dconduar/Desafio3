@@ -1,0 +1,14 @@
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\bin\Debug\net8.0\TotitoP.exe
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\bin\Debug\net8.0\TotitoP.deps.json
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\bin\Debug\net8.0\TotitoP.runtimeconfig.json
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\bin\Debug\net8.0\TotitoP.dll
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\bin\Debug\net8.0\TotitoP.pdb
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.AssemblyInfoInputs.cache
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.AssemblyInfo.cs
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.csproj.CoreCompileInputs.cache
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.dll
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\refint\TotitoP.dll
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.pdb
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\TotitoP.genruntimeconfig.cache
+C:\Users\dieg0\source\repos\TotitoP\TotitoP\obj\Debug\net8.0\ref\TotitoP.dll
